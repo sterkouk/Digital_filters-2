@@ -1,2 +1,2 @@
-# ergasia_2
-ergasia pshfiaka filtra
+# Digital Filtes-2
+Second Exercise for the subject of digital Filtes
